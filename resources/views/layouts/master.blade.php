@@ -157,7 +157,7 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
                     </ul>
                 </li>
                 <li class="dropdown head-dpdn">
-                    <a href="/contact" class="dropdown-toggle"><i class="fa fa-map-marker" aria-hidden="true"></i> Store Finder</a>
+                    <a href="contact" class="dropdown-toggle"><i class="fa fa-map-marker" aria-hidden="true"></i> Store Finder</a>
                 </li>
                 <li class="dropdown head-dpdn">
                     <a href="card.html" class="dropdown-toggle"><i class="fa fa-credit-card-alt" aria-hidden="true"></i> Credit Card</a>
@@ -1082,18 +1082,18 @@ SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, Sony
                 <div class="col-md-4 footer-grids">
                     <h3>Company</h3>
                     <ul>
-                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="/about">About Us</a></li>
                         <li><a href="marketplace.html">Marketplace</a></li>
-                        <li><a href="values.html">Core Values</a></li>
-                        <li><a href="privacy.html">Privacy Policy</a></li>
+                        <li><a href="/values">Core Values</a></li>
+                        <li><a href="/privacy">Privacy Policy</a></li>
                     </ul>
                 </div>
                 <div class="col-md-4 footer-grids">
                     <h3>Services</h3>
                     <ul>
-                        <li><a href="contact.html">Contact Us</a></li>
+                        <li><a href="/contact">Contact Us</a></li>
                         <li><a href="login.html">Returns</a></li>
-                        <li><a href="faq.html">FAQ</a></li>
+                        <li><a href="/faq">FAQ</a></li>
                         <li><a href="sitemap.html">Site Map</a></li>
                         <li><a href="login.html">Order Status</a></li>
                     </ul>

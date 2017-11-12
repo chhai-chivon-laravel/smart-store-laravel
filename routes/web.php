@@ -39,3 +39,9 @@ Route::get('/contact', function () {
 Route::get('/help', function () {
     return view('pages.help');
 });
+Route::get('/privacy', function () {
+    return view('pages.privacy');
+});
+Route::get('/values', function () {
+    return view('pages.values');
+});
