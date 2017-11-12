@@ -20,7 +20,22 @@ Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 
 
-
+/**
+ *
+ * FRONT-END-ROUTE
+ */
 Route::get('/', function () {
     return view('index');
+});
+Route::get('/about', function () {
+    return view('pages.about');
+});
+Route::get('/faq', function () {
+    return view('pages.faq');
+});
+Route::get('/contact', function () {
+    return view('pages.contact');
+});
+Route::get('/help', function () {
+    return view('pages.help');
 });
